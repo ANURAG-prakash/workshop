@@ -1,0 +1,13 @@
+C:\Users\praka\source\repos\gambler\gambler\bin\Debug\netcoreapp3.1\gambler.exe
+C:\Users\praka\source\repos\gambler\gambler\bin\Debug\netcoreapp3.1\gambler.deps.json
+C:\Users\praka\source\repos\gambler\gambler\bin\Debug\netcoreapp3.1\gambler.runtimeconfig.json
+C:\Users\praka\source\repos\gambler\gambler\bin\Debug\netcoreapp3.1\gambler.runtimeconfig.dev.json
+C:\Users\praka\source\repos\gambler\gambler\bin\Debug\netcoreapp3.1\gambler.dll
+C:\Users\praka\source\repos\gambler\gambler\bin\Debug\netcoreapp3.1\gambler.pdb
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.csprojAssemblyReference.cache
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.AssemblyInfo.cs
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.dll
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.pdb
+C:\Users\praka\source\repos\gambler\gambler\obj\Debug\netcoreapp3.1\gambler.genruntimeconfig.cache
