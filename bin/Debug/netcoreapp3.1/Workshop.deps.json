@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "gambler/1.0.0": {
+      "Workshop/1.0.0": {
         "runtime": {
-          "gambler.dll": {}
+          "Workshop.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "gambler/1.0.0": {
+    "Workshop/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

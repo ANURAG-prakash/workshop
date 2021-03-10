@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\praka\\source\\repos\\gambler\\gambler\\gambler.csproj",
-      "projectName": "gambler",
-      "projectPath": "C:\\Users\\praka\\source\\repos\\gambler\\gambler\\gambler.csproj",
+      "projectUniqueName": "C:\\Users\\praka\\OneDrive\\Desktop\\gambler\\Workshop\\Workshop\\Workshop.csproj",
+      "projectName": "Workshop",
+      "projectPath": "C:\\Users\\praka\\OneDrive\\Desktop\\gambler\\Workshop\\Workshop\\Workshop.csproj",
       "packagesPath": "C:\\Users\\praka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\praka\\source\\repos\\gambler\\gambler\\obj\\",
+      "outputPath": "C:\\Users\\praka\\OneDrive\\Desktop\\gambler\\Workshop\\Workshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\praka\\AppData\\Roaming\\NuGet\\NuGet.Config",
