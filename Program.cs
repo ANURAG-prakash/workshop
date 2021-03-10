@@ -6,8 +6,8 @@ namespace UC1_Gambler
     {
         static void Main(string[] args)
         {
-            int MoneyInDollar = 100;
-            int NumberOfGames;
+            int stack = 100;
+            int bet =1;
             Console.WriteLine("Enter the number of gamers");
             NumberOfGames=Console.Read(); 
            
