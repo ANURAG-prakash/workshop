@@ -11,20 +11,6 @@ namespace Workshop
         static void Main(string[] args)
         {
             int result = ToCheckWinOrLoss();
-            int profit = 0, loss = 0;
-
-            while (profit <50 && loss <50)
-            {
-                if (result == 1)
-                    profit += 1;
-
-                else if (result == 0)
-                    loss += 1;
-
-            }
-            Console.WriteLine(profit);
-            Console.WriteLine(loss);
-
 
         }
         public static int ToCheckWinOrLoss()
