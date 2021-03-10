@@ -7,9 +7,13 @@ namespace UC1_Gambler
         static void Main(string[] args)
         {
             int MoneyInDollar = 100;
-            int NumberOfGames;
-            Console.WriteLine("Enter the number of gamers");
-            NumberOfGames=Console.Read(); 
+            int bet=1
+           Random random = new Random;
+            int result = random.Next(0, 2);
+            if (result == 1)
+                Console.WriteLine("win");
+            else
+                Console.WriteLine("losse");
            
         }
     }
